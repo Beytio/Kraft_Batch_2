@@ -1,7 +1,5 @@
 package Week7_Day1_Constructor;
 
-import Week4Day2_Classes.Cars;
-
 public class Constructor_Main {
     public static void main(String[] args) {
 

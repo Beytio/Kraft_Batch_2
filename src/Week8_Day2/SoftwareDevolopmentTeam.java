@@ -1,9 +1,12 @@
 package Week8_Day2;
 
 public class SoftwareDevolopmentTeam extends Person{
-    System teamName;
-    String domain;
+    private System teamName;
+    private String domain;
     int numberOfPersonel;
+
+
+
 
 // daily time,Sprintday
 // tüm sınıflar getter seter constructer,
